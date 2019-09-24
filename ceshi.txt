@@ -3,4 +3,7 @@
 第二行内容
 asdfasfsdfadsfasfasdfasdf
 ssssssssssssssssssssssssssssdddddddddddddd
+<<<<<<< HEAD
 master新加的一行
+新加的一行
+
